@@ -1,0 +1,12 @@
+page {
+    background-color: $-background-main-color;
+    height: 100%;
+    width: 100%;
+	font-family: PingFang SC;
+}
+.line-1 {
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 1;
+		overflow: hidden;
+	}
